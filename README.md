@@ -37,6 +37,17 @@ Built and tested models:
 > Random Forest – 69% accuracy
 Conclusion: SVC was the most accurate model for classification.
 
+### Loading the data set and checking null values
+![image](https://github.com/user-attachments/assets/644afea5-45d2-494f-936b-c025dc88aa46)
+### dropping unnecessary columns
+![image](https://github.com/user-attachments/assets/8f4e9151-8bca-4a43-9807-660326a85334)
+### data preprocessing
+![image](https://github.com/user-attachments/assets/f7ddfd42-f5c2-4bdf-9230-b86b31d1cb59)
+### Building and evaluating with different models
+![image](https://github.com/user-attachments/assets/98436862-63ad-4a56-b5e8-9f35e5123ec8)
+![image](https://github.com/user-attachments/assets/0e2d1685-e6e5-4cc3-a391-79bc300531c3)
+![image](https://github.com/user-attachments/assets/a5f720cd-0bf3-46a1-a180-1787a1a7723f)
+
 **Tech Stack**
 Python
 Pandas, NumPy
